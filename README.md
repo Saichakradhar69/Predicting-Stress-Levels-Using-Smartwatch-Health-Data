@@ -1,11 +1,5 @@
 # Predicting Stress Levels Using Smartwatch Health Data
 
-### Group Members:
-- **Sai Chakradhar Mattaparthi** – SXM230175  
-- **Neel Maheshwari** – NXM230045
-
----
-
 ## 📌 Project Motivation
 
 Wearable technology has transformed personal health monitoring by providing real-time insights into physical activity, heart rate, sleep, and stress. In this project, we analyzed smartwatch health data to build predictive models for estimating stress levels using physiological and behavioral metrics.
