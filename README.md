@@ -116,8 +116,3 @@ We also attempted to improve prediction through feature engineering (e.g., combi
 - Friedman, J. H. (2001). *Greedy Function Approximation: A Gradient Boosting Machine*. https://doi.org/10.1214/aos/1013203451  
 - OpenAI. (2024). *ChatGPT: Language Model Assistance*. https://openai.com/chatgpt
 
----
-
-## 📌 License
-
-This project is academic work under fair use. Data sources and libraries are credited. Code and results are the original work of the authors.
