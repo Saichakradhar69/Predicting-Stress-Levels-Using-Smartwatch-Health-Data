@@ -104,17 +104,6 @@ We also attempted to improve prediction through feature engineering (e.g., combi
 
 ---
 
-## 📅 Timeline
-
-| Day | Task                          |
-|-----|-------------------------------|
-| 1–2 | Preprocessing and cleaning    |
-| 3   | Exploratory Data Analysis     |
-| 4–5 | Model training and tuning     |
-| 6   | Results interpretation        |
-| 7   | Final notebook polish         |
-
----
 
 ## 📚 References
 
